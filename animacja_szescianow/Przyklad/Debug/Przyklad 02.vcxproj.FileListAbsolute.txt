@@ -1,0 +1,8 @@
+C:\Users\RAFAŁ\Downloads\Przyklad 02\Debug\Przyklad 02.vcxprojAssemblyReference.cache
+C:\Users\RAFAŁ\Downloads\Przyklad 02\Debug\Przyklad 02.exe
+C:\Users\RAFAŁ\Desktop\openGL\Przyklad 02\Debug\Przyklad 02.vcxprojAssemblyReference.cache
+C:\Users\RAFAŁ\Desktop\openGL\Przyklad 02\Debug\Przyklad 02.exe
+C:\Users\RAFAŁ\Desktop\openGL\animacja_szescianow\Przyklad 02\Debug\Przyklad 02.vcxprojAssemblyReference.cache
+C:\Users\RAFAŁ\Desktop\openGL\animacja_szescianow\Przyklad 02\Debug\Przyklad 02.exe
+C:\Users\RAFAŁ\Desktop\openGL\animacja_szescianow\Przyklad\Debug\Przyklad 02.vcxprojAssemblyReference.cache
+C:\Users\RAFAŁ\Desktop\openGL\animacja_szescianow\Przyklad\Debug\Przyklad 02.exe
